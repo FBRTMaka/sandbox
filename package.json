@@ -1,0 +1,25 @@
+{
+  "name": "sandbox",
+  "version": "0.0.0",
+  "description": "A starting point for developing full stack web applications with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FBRTMaka/sandbox.git"
+  },
+  "keywords": [
+    "full",
+    "stack",
+    "backbone",
+    "dev"
+  ],
+  "author": "M@campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBRTMaka/sandbox/issues"
+  },
+  "homepage": "https://github.com/FBRTMaka/sandbox#readme"
+}
